@@ -4,18 +4,25 @@ This project is an implementation of a sample application that demonstrates the 
 
 ## Technologies Used
 
-- [x] TypeScript
-- [x] Jest
-- [ ] Express.js or Nest.js
-- [ ] PostgreSQL
+&#9745; TypeScript
+
+&#9745; Jest
+
+&#9744; Express.js or Nest.js
+
+&#9744; PostgreSQL
 
 ## TODO List
 
-- [x] Create Entitys
-- [x] Create UseCases
-- [ ] Create notification partner
-- [ ] Create database repositories 
-- [ ] API Calls using Express.js or Nest.js (to define)
+&#9745; Create Entitys
+
+&#9745; Create UseCases
+
+&#9744; Create notification partner
+
+&#9744; Create database repositories 
+
+&#9744; API Calls using Express.js or Nest.js (to define)
 
 ## Installation
 
