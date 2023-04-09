@@ -34,7 +34,7 @@ To get started with this project, follow these steps:
 
 ## Running the Application
 
-To run the application in development mode, use the following command: `npm run dev`
+To run the application in development mode, use the following command: `npm run start:dev`
 
 This will start the server and restart it automatically whenever changes are made to the code.
 
